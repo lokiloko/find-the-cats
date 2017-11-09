@@ -6,7 +6,7 @@ const Detail = () => import('@/components/Detail')
 
 Vue.use(Router)
 
-export default new Router({
+export default Router({
   routes: [
     {
       path: '/',
